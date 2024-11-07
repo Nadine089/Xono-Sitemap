@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- Updated Sitemap -->
+
+
+<url>
+  <loc>https://blog.xono.online/</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/10/xono-product-brochure-to-unlock-power.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/10/xono-all-in-one-platform-for-safe.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/09/whistleblowing-what-you-can-report.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/09/whistleblower-legal-protections-uk.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/09/mental-wellbeing.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/08/whistleblower-legal-protections-sa.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/10/</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/09/</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/08/</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/07/</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/06/</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/03/</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/06/eu-whistleblowing-directive.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/03/understanding-five-elements-of-wellbeing.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/06/why-people-do-not-report-corruption.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/07/employee-mental-health.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/07/safeguarding-kids-in-primary-schools.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.xono.online/2024/03/building-resilience.html?m=1</loc>
+  <lastmod>2024-11-05T10:53:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
